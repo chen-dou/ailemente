@@ -1,4 +1,6 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-
-createApp(App).mount('#app')
+import ElContainer from './components/container'
+import ElButton from './components/button'
+const app = createApp(App)
+app.use(ElContainer).use(ElButton).mount('#app')

@@ -1,0 +1,41 @@
+{
+  "hash": "dd191fef",
+  "browserHash": "1f1b61a3",
+  "optimized": {
+    "element3": {
+      "file": "/Users/chendou/Desktop/ailemente/docs/.vuepress/.cache/element3.js",
+      "src": "/Users/chendou/Desktop/ailemente/node_modules/element3/dist/element3-ui.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue": {
+      "file": "/Users/chendou/Desktop/ailemente/docs/.vuepress/.cache/vue.js",
+      "src": "/Users/chendou/Desktop/ailemente/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "/Users/chendou/Desktop/ailemente/docs/.vuepress/.cache/vue-router.js",
+      "src": "/Users/chendou/Desktop/ailemente/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vue/devtools-api": {
+      "file": "/Users/chendou/Desktop/ailemente/docs/.vuepress/.cache/@vue_devtools-api.js",
+      "src": "/Users/chendou/Desktop/ailemente/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "file": "/Users/chendou/Desktop/ailemente/docs/.vuepress/.cache/@vueuse_core.js",
+      "src": "/Users/chendou/Desktop/ailemente/node_modules/@vueuse/core/index.mjs",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "/Users/chendou/Desktop/ailemente/docs/.vuepress/.cache/nprogress.js",
+      "src": "/Users/chendou/Desktop/ailemente/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    },
+    "@vuepress/shared": {
+      "file": "/Users/chendou/Desktop/ailemente/docs/.vuepress/.cache/@vuepress_shared.js",
+      "src": "/Users/chendou/Desktop/ailemente/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    }
+  }
+}
